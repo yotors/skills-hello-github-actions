@@ -8,7 +8,9 @@ _Create and run a GitHub Actions workflow._
 
 ## Finish
 
+test-workflow
 _Congratulations friend, you've completed this course!_
+main
 
 <img src=https://octodex.github.com/images/jetpacktocat.png alt="Mona the Octocat wearing a jetpack and smiling." width=300 align=right>
 
